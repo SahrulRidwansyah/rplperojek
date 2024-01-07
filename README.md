@@ -33,3 +33,9 @@ TI.22.A2
 # tentang perpus
 ![Screenshot (333)](https://github.com/sahrul180304/rplperojek/assets/115526901/357e670d-ec59-4228-b784-45ce6b6d0f2b)
 
+# Diagram
+
+# use case
+![image](https://github.com/sahrul180304/rplperojek/assets/115526901/893f50d8-2ab6-4694-a34a-aafeadc2df2b)
+
+# Activity 
