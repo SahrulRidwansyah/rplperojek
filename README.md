@@ -52,3 +52,11 @@ TI.22.A2
 
 ![image](https://github.com/sahrul180304/rplperojek/assets/115526901/86c2bed2-3a01-4366-b853-7597c2c9367a)
 
+# data model
+
+![image](https://github.com/sahrul180304/rplperojek/assets/115526901/a429c53a-5f02-4232-9e36-435f6e5d158d)
+
+# inter face
+
+![Screenshot (322)](https://github.com/sahrul180304/rplperojek/assets/115526901/9fd68489-e2fc-4f15-b181-4377ca25df5f)
+
