@@ -43,4 +43,7 @@ TI.22.A2
 
 ![image](https://github.com/sahrul180304/rplperojek/assets/115526901/5b815b62-8746-452a-bc4b-d8ebcf3282eb)
 
+![image](https://github.com/sahrul180304/rplperojek/assets/115526901/23438a7d-0799-416c-8793-b3947455a6ff)
+
+# squence
 
