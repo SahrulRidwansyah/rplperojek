@@ -36,14 +36,19 @@ TI.22.A2
 # Diagram
 
 # use case
+
 ![image](https://github.com/sahrul180304/rplperojek/assets/115526901/893f50d8-2ab6-4694-a34a-aafeadc2df2b)
 
 # Activity 
-![image](https://github.com/sahrul180304/rplperojek/assets/115526901/50a41428-8d73-4114-98cb-9002a259aaaa)
 
-![image](https://github.com/sahrul180304/rplperojek/assets/115526901/5b815b62-8746-452a-bc4b-d8ebcf3282eb)
+![image](https://github.com/sahrul180304/rplperojek/assets/115526901/34ddeb74-f18b-4c5f-ac09-b6215574edc4)
 
-![image](https://github.com/sahrul180304/rplperojek/assets/115526901/23438a7d-0799-416c-8793-b3947455a6ff)
 
 # squence
+
+![image](https://github.com/sahrul180304/rplperojek/assets/115526901/2632c4b5-b6fb-4f1f-9d54-0a1202b67f52)
+
+# class 
+
+![image](https://github.com/sahrul180304/rplperojek/assets/115526901/86c2bed2-3a01-4366-b853-7597c2c9367a)
 
